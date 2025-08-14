@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **IOT research group PUCP**
 
-- 👨‍💻 All of my projects are available at [https://mptechprojects.com/portfolio](https://morillospinedo.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://morillospinedo.com/portfolio](https://morillospinedo.com/portfolio)
 
 - 💬 Ask me about **Spring, NodeJS, JavaScript and Python**
 
 - 📫 How to reach me **jmorillosp@pucp.edu.pe**
 
-- 📄 Know about my experiences [https://mptechprojects.com/about](https://morillospinedo.com/about)
+- 📄 Know about my experiences [https://morillospinedo.com/about](https://morillospinedo.com/about)
 
 - ⚡ Fun fact **I'm a little obsessed with things I like.**
 
