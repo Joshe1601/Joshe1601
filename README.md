@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshe1601" alt="joshe1601" /></a> </p>
 
-- 🔭 I’m currently working on **IOT research group PUCP**
+- 🔭 I’m currently working on **Internet Para Todos (IPT)**
 
 - 👨‍💻 All of my projects are available at [https://morillospinedo.com/portfolio](https://morillospinedo.com/portfolio)
 
 - 💬 Ask me about **Spring, NodeJS, JavaScript and Python**
 
-- 📫 How to reach me **jmorillosp@pucp.edu.pe**
+- 📫 How to reach me **jmorillosp161@gmail.com**
 
 - 📄 Know about my experiences [https://morillospinedo.com/about](https://morillospinedo.com/about)
 
